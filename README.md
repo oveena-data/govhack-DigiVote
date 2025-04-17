@@ -38,3 +38,27 @@ DigiVote is a modern digital voting app designed to improve accessibility and se
   Guarantees accurate and secure vote counting.
 
 ---
+
+## Dashboard & Contributions
+
+### [Electoral Commission of Australia: Integrated Vote Tracking System (Tableau)](https://public.tableau.com/views/DigiVoteDashboard/Overview)
+
+A Tableau dashboard designed to provide government officials real-time insights into voting trends and statistics. This dashboard assists in monitoring voting progress, ensuring transparency in the electoral process, and enabling data-driven decision-making.
+
+### [Hackerspace Project Page: DigiVote](https://2024.hackerspace.govhack.org/projects/digivote)
+
+Check out more in-depth information on DigiVote and its contributions from the team. The project page highlights the development process, features, and the team's efforts to bring secure, accessible, and innovative voting solutions to life.
+
+---
+
+## Technologies Used
+
+- **Python, Django**
+- **Tableau for Data Visualization**
+- **Blockchain** for secure vote recording
+- **Computer Vision** for ID verification
+- **Machine Learning** for fraud detection
+
+---
+
+Feel free to explore and contribute to the project! 🚀
